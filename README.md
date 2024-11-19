@@ -1,4 +1,4 @@
-# Blazor Web App with OpenID Connect (OIDC)
+# Blazor Web App with Azure Easy Auth
 
 This sample features:
 
